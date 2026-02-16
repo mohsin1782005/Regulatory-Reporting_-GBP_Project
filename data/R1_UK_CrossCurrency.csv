@@ -1,0 +1,8 @@
+metric,txn_count,relative_value_gbp,absolute_value_gbp,negative_txn_count,customer_type,year,month
+R1 - UK Entity Cross Currency,1,645.0,645.0,0,Personal,2022,5
+R1 - UK Entity Cross Currency,1,433.0,433.0,0,Personal,2022,6
+R1 - UK Entity Cross Currency,1,-584.0,584.0,1,Business,2022,8
+R1 - UK Entity Cross Currency,1,670.0,670.0,0,Personal,2022,8
+R1 - UK Entity Cross Currency,2,1144.0,1144.0,0,Personal,2022,10
+R1 - UK Entity Cross Currency,1,762.0,762.0,0,Personal,2023,1
+R1 - UK Entity Cross Currency,1,450.0,450.0,0,Business,2023,3
